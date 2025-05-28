@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Hainan University](https://www.hainanu.edu.cn/ 海南大学 海南大学 ).
+I'm a third year undergraduate student from [Hainan University](https://www.hainanu.edu.cn/).
 
 
-[Github](https://github.com/rukavi - Overview rukavi - Overview ) 
+[Github](https://github.com/rukavi) 
